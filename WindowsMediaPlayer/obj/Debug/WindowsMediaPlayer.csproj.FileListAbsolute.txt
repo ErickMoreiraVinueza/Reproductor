@@ -1,0 +1,15 @@
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe.config
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.AssemblyReference.cache
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Properties.Resources.resources
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.cache
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.exe
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.pdb
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Form1.resources
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DETPC\source\repos\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
